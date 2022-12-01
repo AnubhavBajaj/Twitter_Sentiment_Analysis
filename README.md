@@ -2,11 +2,11 @@
 Analysing people emotions using tweets
 
 ## Algorithm used for Binary text Classification problems
-•	Cleaning Data by looking for null values and Getting unique Classes from them
-•	Text Processing: text to lower case , strip punctuation, remove stop words 
-•	Tokenizing using tf-idf and word2vec and Data Preprocessing (to extract relevant information)
-•	Stemming  and Lemmatization 
-•	Training and then testing models over data
+•	Cleaning Data by looking for null values and Getting unique Classes <br>
+•	Text Processing: text to lower case , strip punctuation, remove stop words <br>
+•	Tokenizing using tf-idf and word2vec and Data Preprocessing (to extract relevant information) <br>
+•	Stemming  and Lemmatization <br>
+•	Training and then testing models over data <br>
 •	Selecting models which give good results
 
 ## Data visualizations
